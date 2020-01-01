@@ -1,0 +1,2 @@
+# ESP32_GY-GPS6MV2
+ESP32とGY-GPS6MV2を利用し、GPSから現在位置を取得します
